@@ -20,6 +20,5 @@ namespace GAN.Tests
 
             Assert.That(registerPage.dobError.Text, Is.EqualTo("This field is required"));
         }
-        //TEST%20TEST%20
     }
 }
